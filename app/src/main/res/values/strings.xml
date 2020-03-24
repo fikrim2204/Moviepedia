@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Moviepedia</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="popular_movie">Popular Movie</string>
+    <string name="trending_movie">Trending Movie</string>
+    <string name="top_rate_movie">Top Rate Movie</string>
+    <string name="similiar_movie">Similiar Movie</string>
+    <string name="search_movie">Search Movie</string>
+</resources>
